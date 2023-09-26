@@ -7,5 +7,5 @@ public class App_Classe_Principal {
 	Estagiario estagiario = new Estagiario();
 funcionario_Tipo.Tipo__Funcionario(estagiario);
 	}
-/*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*/
+
 }
